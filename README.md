@@ -8,6 +8,6 @@ A comprehensive analysis of the popular movies dataset, focusing on user ratings
 Offering an interactive visualizations and insights into user preferences, movie ratings distribution, and genre popularity, enabling users to explore and understand the dataset easily.
 Diving into movie trends, aiding in strategic decision-making for filmmakers and enthusiasts.
 
-PBIX LINK:https://drive.google.com/file/d/1fHFcfVcqWHQ5qBNozz3-U5m_LN5NI9PW/view?usp=sharing
+PBIX LINK:https://drive.google.com/file/d/1aemsFB1aU4PAvi5a99Snl2_RIQI10nIN/view?usp=sharing
 PDF LINK:https://drive.google.com/file/d/1maMUg6XAU5jDSxFCd4X7_mzNMhSZXbxL/view?usp=sharing
 PDF LINK:https://drive.google.com/file/d/1AE6onKWncVmeDEvmAP2MIGGfJbfDWsUy/view?usp=sharing
